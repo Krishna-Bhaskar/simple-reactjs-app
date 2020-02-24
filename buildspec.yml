@@ -7,3 +7,8 @@ phases:
   build:
     commands:
       - npm build 
+  artifacts:
+    files:
+      - '**/*'
+    discard-paths: yes
+    base-directory: 'assets/public/simple-reactjs-app'
