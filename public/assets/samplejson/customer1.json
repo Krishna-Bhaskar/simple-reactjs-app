@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
-	"phone": "123456789",
+	"name": "Krishna Bhaskar",
+	"email": "Bhaskar@test.com",
+	"phone": "9886053368",
 	"city": "bangalore",
 	"state": "karnataka",
 	"country": "India",
 	"organization": "Company 1",
-	"jobProfile": "Software Developer",
+	"jobProfile": "AWS Architect",
 	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
 }
